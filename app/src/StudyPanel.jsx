@@ -41,7 +41,7 @@ export function StudyPanel({stage,selected,detail,structures,suggested,notes,onS
       </div>
     </div>
     <div className="panel-footer">
-      <button className="primary" onClick={()=>onReader(report)}><Books size={19}/>Ler relatório-base</button>
+      {report&&<button className="primary" onClick={()=>onReader(report)}><Books size={19}/>Ler relatório-base</button>}
       <button className="secondary" onClick={onNote}><Plus size={20}/>Registrar uma ideia</button>
     </div>
   </aside>;

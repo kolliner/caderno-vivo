@@ -1,0 +1,129 @@
+{
+  "version": 1,
+  "comments": [
+    {
+      "id": "fixture-0",
+      "body": "Comentário sintético para teste de interface.",
+      "done": false,
+      "point": {
+        "x": 0.6315104166666666,
+        "y": 0.7602739726027398,
+        "width": 1536,
+        "height": 730
+      },
+      "context": {
+        "view": "Explorar",
+        "depth": 22,
+        "label": "Rede tubular",
+        "selected": "",
+        "query": "",
+        "filter": "Todos",
+        "paused": false,
+        "isolated": false,
+        "separated": false,
+        "light": false,
+        "camera": {
+          "progress": 0.22,
+          "yaw": 0.9792000732421875,
+          "pitch": 0.6615998535156249,
+          "elapsed": 42.2825,
+          "stage": 1
+        },
+        "scrolls": []
+      }
+    },
+    {
+      "id": "fixture-1",
+      "body": "Comentário sintético para teste de interface.",
+      "done": false,
+      "point": {
+        "x": 0.6315104166666666,
+        "y": 0.7602739726027398,
+        "width": 1536,
+        "height": 730
+      },
+      "context": {
+        "view": "Explorar",
+        "depth": 22,
+        "label": "Rede tubular",
+        "selected": "",
+        "query": "",
+        "filter": "Todos",
+        "paused": false,
+        "isolated": false,
+        "separated": false,
+        "light": false,
+        "camera": {
+          "progress": 0.22,
+          "yaw": 0.9792000732421875,
+          "pitch": 0.6615998535156249,
+          "elapsed": 42.2825,
+          "stage": 1
+        },
+        "scrolls": []
+      }
+    },
+    {
+      "id": "fixture-2",
+      "body": "Comentário sintético para teste de interface.",
+      "done": false,
+      "point": {
+        "x": 0.6315104166666666,
+        "y": 0.7602739726027398,
+        "width": 1536,
+        "height": 730
+      },
+      "context": {
+        "view": "Explorar",
+        "depth": 22,
+        "label": "Rede tubular",
+        "selected": "",
+        "query": "",
+        "filter": "Todos",
+        "paused": false,
+        "isolated": false,
+        "separated": false,
+        "light": false,
+        "camera": {
+          "progress": 0.22,
+          "yaw": 0.9792000732421875,
+          "pitch": 0.6615998535156249,
+          "elapsed": 42.2825,
+          "stage": 1
+        },
+        "scrolls": []
+      }
+    },
+    {
+      "id": "fixture-3",
+      "body": "Comentário sintético para teste de interface.",
+      "done": false,
+      "point": {
+        "x": 0.6315104166666666,
+        "y": 0.7602739726027398,
+        "width": 1536,
+        "height": 730
+      },
+      "context": {
+        "view": "Explorar",
+        "depth": 22,
+        "label": "Rede tubular",
+        "selected": "",
+        "query": "",
+        "filter": "Todos",
+        "paused": false,
+        "isolated": false,
+        "separated": false,
+        "light": false,
+        "camera": {
+          "progress": 0.22,
+          "yaw": 0.9792000732421875,
+          "pitch": 0.6615998535156249,
+          "elapsed": 42.2825,
+          "stage": 1
+        },
+        "scrolls": []
+      }
+    }
+  ]
+}

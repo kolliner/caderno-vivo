@@ -1,0 +1,25 @@
+# Dependências, builds e arquivos locais
+**/node_modules/
+**/dist/
+**/.vite/
+**/.env
+**/.env.*
+!**/.env.example
+*.log
+.DS_Store
+Thumbs.db
+# Dados pessoais e resultados locais de teste
+**/caderno-vivo-*.json
+app/qa/
+backups/
+exports/
+
+# Contexto de trabalho e documentação interna: manter somente local
+/private-backups/
+/docs/
+/design/
+/fontes/
+/AGENTS.md
+/CHANGELOG.md
+/app/AGENTS.md
+/app/design-qa.md
